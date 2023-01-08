@@ -10,3 +10,4 @@ app.get("/trang-chu", (req, res) => {
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
+//Cài handlebars templates :https://www.youtube.com/watch?v=lpbl2qQXbDo&list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3&index=9
