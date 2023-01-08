@@ -1,0 +1,30 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Hello nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuyenHp/nodejs.git"
+  },
+  "keywords": [
+    "học",
+    "nodejs"
+  ],
+  "author": "luyenle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuyenHp/nodejs/issues"
+  },
+  "homepage": "https://github.com/LuyenHp/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
